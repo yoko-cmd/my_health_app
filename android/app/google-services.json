@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020899138518",
+    "project_id": "myhealthapp-505c5",
+    "storage_bucket": "myhealthapp-505c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020899138518:android:6ddba33602057431206277",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7m2xjnwetfBpzD0HNQOqW6ik34QevIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
